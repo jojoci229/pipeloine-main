@@ -7,4 +7,4 @@ crewai==0.51.1
 crewai_tools==0.8.3
 langchain_community==0.2.12
 langchain_groq==0.1.9
-langchain==0.2.14
+langchain==0.3.0
